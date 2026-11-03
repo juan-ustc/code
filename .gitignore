@@ -1,0 +1,15 @@
+# 编译产物，不进版本库
+*.exe
+*.o
+*.obj
+
+# VS Code / Code Runner 临时文件
+tempCodeRunnerFile.c
+tempCodeRunnerFile.cpp
+
+# 系统垃圾
+Thumbs.db
+desktop.ini
+
+# 之前克隆的仓库，单独管理，不嵌进来
+juan-ustc/
